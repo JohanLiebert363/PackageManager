@@ -1,0 +1,6 @@
+{
+    "name": "Ping",
+    "version": "1.0",
+    "entry": "pingpkg",
+    "description": "Pings a website or IP."
+}
