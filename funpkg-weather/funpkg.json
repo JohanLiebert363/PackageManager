@@ -1,0 +1,6 @@
+{
+    "name": "Weather",
+    "version": "1.0",
+    "entry": "weatherpkg",
+    "description": "Gets simple weather info."
+}
