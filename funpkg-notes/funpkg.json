@@ -1,0 +1,6 @@
+{
+    "name": "Notes",
+    "version": "1.0",
+    "entry": "notespkg",
+    "description": "Simple text notes."
+}
