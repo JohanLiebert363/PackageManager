@@ -1,0 +1,6 @@
+{
+    "name": "SysInfo",
+    "version": "1.0",
+    "entry": "sysinfo",
+    "description": "Shows system information."
+}
