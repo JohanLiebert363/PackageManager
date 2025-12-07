@@ -1,0 +1,6 @@
+{
+    "name": "Calc",
+    "version": "1.0",
+    "entry": "calc",
+    "description": "Simple calculator package."
+}
