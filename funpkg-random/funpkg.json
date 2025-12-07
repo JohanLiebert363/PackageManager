@@ -1,0 +1,6 @@
+{
+    "name": "Random",
+    "version": "1.0",
+    "entry": "randompkg",
+    "description": "Generates random numbers."
+}
