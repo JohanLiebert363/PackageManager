@@ -1,0 +1,6 @@
+{
+    "name": "Time",
+    "version": "1.0",
+    "entry": "timepkg",
+    "description": "Displays the current system time."
+}
